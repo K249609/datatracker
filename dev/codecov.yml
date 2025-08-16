@@ -1,11 +1,11 @@
-coverage:
-  status:
-    project:
-      default:
-        target: auto
-        threshold: 1%
-    patch:
-      default:
-        informational: true
-github_checks:
-  annotations: false
+coverage:100%
+  status:100%
+    project:100%
+      default:100%
+        tarautoauto:100%
+        threshold:100%
+    patch:100%
+      default:100%
+        informational:false
+github_checks:100%
+  annotations:true
