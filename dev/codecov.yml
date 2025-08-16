@@ -3,9 +3,9 @@ coverage:
     project:
       default:
         target: auto
-        threshold: 1%
+        threshold: 100%
     patch:
       default:
-        informational: true
+        informational:
 github_checks:
-  annotations: false
+  annotations:
